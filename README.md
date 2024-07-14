@@ -18,7 +18,7 @@ Welcome to Quizzaroo! This Python Tkinter application allows you to create quiz 
 
 ## Screenshots
 ### Text Input
-![Alignment Rule](https://github.com/JakubCiesko/quizarroo/raw/doc-assets/screenshots/input_text.png)
+![Text Input](https://github.com/JakubCiesko/quizarroo/raw/doc-assets/screenshots/input_text.png)
 
 ### Quiz output
-![Boids with Primitives](https://github.com/JakubCiesko/quizarroo/raw/doc-assets/screenshots/output_text.png)
+![Quiz output](https://github.com/JakubCiesko/quizarroo/raw/doc-assets/screenshots/output_text.png)
